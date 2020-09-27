@@ -26,8 +26,8 @@ public class SearchServiceControllerIT {
         mockMvc.perform(get("/v1/search/ed"))
                 .andDo(print())
                 .andExpect(status().isOk())
-                .andExpect(jsonPath("$.[1].type").value("ALBUM"))
-                .andExpect(jsonPath("$.[9].type").value("BOOK"));
+                .andExpect(jsonPath("$.[0].type").value("BOOK"))
+                .andExpect(jsonPath("$.[9].type").value("ALBUM"));
     }
 
     @Test

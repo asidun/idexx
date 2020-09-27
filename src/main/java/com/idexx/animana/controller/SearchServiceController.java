@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.HttpClientErrorException;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
@@ -69,6 +70,8 @@ public class SearchServiceController {
         if(result.size() == 0){
             throw new HttpClientErrorException(HttpStatus.NOT_FOUND, "Empty result. SearchTerm: " + searchTerm);
         }
+
+        Collections.sort(result);
 
         return result;
     }
