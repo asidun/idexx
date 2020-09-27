@@ -1,0 +1,392 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 557,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "CSrrkKclA8cC",
+      "etag": "cDHl0ozfoXo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CSrrkKclA8cC",
+      "volumeInfo": {
+        "title": "William Shakespeare",
+        "authors": [
+          "Harold Bloom"
+        ],
+        "publisher": "Infobase Publishing",
+        "publishedDate": "2009-01-01",
+        "description": "Presents a collection of critical essays on the works of William Shakespeare.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781438113593"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1438113595"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 550,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CSrrkKclA8cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CSrrkKclA8cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ua/books?id=CSrrkKclA8cC&printsec=frontcover&dq=shakespeare&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.ua/books?id=CSrrkKclA8cC&dq=shakespeare&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/William_Shakespeare.html?hl=&id=CSrrkKclA8cC"
+      },
+      "saleInfo": {
+        "country": "UA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "UA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ua/books/download/William_Shakespeare-sample-epub.acsm?id=CSrrkKclA8cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ua/books/download/William_Shakespeare-sample-pdf.acsm?id=CSrrkKclA8cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CSrrkKclA8cC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presents a collection of critical essays on the works of William Shakespeare."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AvtDAAAAYAAJ",
+      "etag": "erGAg8OdKds",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AvtDAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Shakespeare ...",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "publisher": "Viking Adult",
+        "publishedDate": "1944",
+        "description": "Presenting a most civilized way to silence boors, deflect rudeness, and chide churlish lovers: Our mini book of insults culled from the dramatic works of English literature's most gifted wordsmith. Shakespeare's enduring putdowns include \"Thou art a very ragged Wart\" \"(Henry IV),\" \"Thy kiss is as comfortless as frozen water to a starved snake\" \"(Troilus and Cressida),\" and \"In civility thou seem'st so empty\" \"(As You Like It).\" Why resort to vulgarity when a high-brow literary epithet does the job so well?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X000177455"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 792,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AvtDAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AvtDAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ua/books?id=AvtDAAAAYAAJ&q=shakespeare&dq=shakespeare&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.ua/books?id=AvtDAAAAYAAJ&dq=shakespeare&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shakespeare.html?hl=&id=AvtDAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "UA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "UA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AvtDAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presenting a most civilized way to silence boors, deflect rudeness, and chide churlish lovers: Our mini book of insults culled from the dramatic works of English literature&#39;s most gifted wordsmith."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hh5pV-G-XtoC",
+      "etag": "TpepNiCl3Xw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hh5pV-G-XtoC",
+      "volumeInfo": {
+        "title": "The Genius of Shakespeare",
+        "authors": [
+          "Jonathan Bate"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "1998",
+        "description": "This fascinating book by one of Britain's most acclaimed young Shakespeare scholars explores the extraordinary staying-power of Shakespeare's work. Bate opens by taking up questions of authorship, asking, for example, Who was Shakespeare, based on the little documentary evidence we have? Which works really are attributable to him? And how extensive was the influence of Christopher Marlowe? Bate goes on to trace Shakespeare's canonization and near- deification, examining not only the uniqueness of his status among English-speaking readers but also his effect on literate cultures across the globe. Ambitious, wide-ranging, and historically rich, this book shapes a provocative inquiry into the nature of genius as it ponders the legacy of a talent unequalled in English letters. A bold and meticulous work of scholarship, The Genius of Shakespeare is also lively and accessibly written and will appeal to any reader who has marveled at the Bard and the enduring power of his work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0195128230"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780195128239"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hh5pV-G-XtoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hh5pV-G-XtoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ua/books?id=hh5pV-G-XtoC&printsec=frontcover&dq=shakespeare&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.ua/books?id=hh5pV-G-XtoC&dq=shakespeare&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Genius_of_Shakespeare.html?hl=&id=hh5pV-G-XtoC"
+      },
+      "saleInfo": {
+        "country": "UA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "UA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ua/books/download/The_Genius_of_Shakespeare-sample-epub.acsm?id=hh5pV-G-XtoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ua/books/download/The_Genius_of_Shakespeare-sample-pdf.acsm?id=hh5pV-G-XtoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hh5pV-G-XtoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Genius of Shakespeare is a new kind of biography: a biography of Shakespeare&#39;s talent and reputation, beyond the limits of his actual life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AC9DO7yanGwC",
+      "etag": "6rH6s1ispUY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AC9DO7yanGwC",
+      "volumeInfo": {
+        "title": "A History of Shakespeare on Screen",
+        "subtitle": "A Century of Film and Television",
+        "authors": [
+          "Kenneth S. Rothwell"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2004-10-28",
+        "description": "This edition of A History of Shakespeare on Screen updates the chronology to 2003, with a new chapter on recent films.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0521543118"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521543118"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 380,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AC9DO7yanGwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AC9DO7yanGwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ua/books?id=AC9DO7yanGwC&printsec=frontcover&dq=shakespeare&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.ua/books?id=AC9DO7yanGwC&dq=shakespeare&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_History_of_Shakespeare_on_Screen.html?hl=&id=AC9DO7yanGwC"
+      },
+      "saleInfo": {
+        "country": "UA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "UA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AC9DO7yanGwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition of A History of Shakespeare on Screen updates the chronology to 2003, with a new chapter on recent films."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Yyw7DwAAQBAJ",
+      "etag": "SeEkZ4yM0D4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yyw7DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Шакспер, Shakespeare, Шекспир",
+        "subtitle": "Роман о том, как возникали шедевры",
+        "authors": [
+          "Марк  Берколайко"
+        ],
+        "publisher": "Издательство «Время»",
+        "publishedDate": "2017-10-10",
+        "description": "\"Ромео и Джульетта\" и \"Гамлет\", \"Отелло\" и \"Король Лир\", \"Зимняя сказка\" и \"Буря\" и много-много других знаменитых пьес… Так все-таки кто же автор гениальных трагедий и волнующих драм, уже более четырех веков привлекающих внимание зрителей и читателей? Не очень заметный актер Уилл Шакспер, родившийся в Стратфорде-на-Эйвоне, почти всю жизнь проживший в Лондоне, но в 1612 году вернувшийся в родной город и умерший там 23 апреля 1616 года? Или писавший под псевдонимом Shakespeare некто высокородный и высокообразованный (в число \"драматургов\" включали королеву Елизавету, Фрэнсиса Бэкона, Кристофера Марло, графа Саутгемптона, Мэри Герберт Сидни, графиню Пемброк, графа Ратленда и его жену Элизабет, — и это далеко не полный перечень)? В новой книге Марка Берколайко к разгадке тайны авторства случайно прикоснулся молодой ученый из XXII столетия, который с помощью устройства, улавливающего звуки из далекого прошлого, услышал, как создавались шедевры.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785969116849"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "596911684X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Yyw7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Yyw7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.com.ua/books?id=Yyw7DwAAQBAJ&pg=PP3&dq=shakespeare&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Yyw7DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Yyw7DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 66.84,
+          "currencyCode": "UAH"
+        },
+        "retailPrice": {
+          "amount": 50.13,
+          "currencyCode": "UAH"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Yyw7DwAAQBAJ&rdid=book-Yyw7DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 66840000,
+              "currencyCode": "UAH"
+            },
+            "retailPrice": {
+              "amountInMicros": 50130000,
+              "currencyCode": "UAH"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "UA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ua/books/download/%D0%A8%D0%B0%D0%BA%D1%81%D0%BF%D0%B5%D1%80_Shakespeare_%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8-sample-epub.acsm?id=Yyw7DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ua/books/download/%D0%A8%D0%B0%D0%BA%D1%81%D0%BF%D0%B5%D1%80_Shakespeare_%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8-sample-pdf.acsm?id=Yyw7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yyw7DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Художественное электронное издание 16+ Берколайко, все-таки кто же \u003cbr\u003e\nавтор гениальных трагедий и волнующих драм, М. З. Шакспер, \u003cb\u003eShakespeare\u003c/b\u003e, \u003cbr\u003e\nШекспир : Роман о том, как возникали шедевры / Марк Зиновьевич \u003cbr\u003e\nБерколайко."
+      }
+    }
+  ]
+}
